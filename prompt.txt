@@ -1,0 +1,678 @@
+
+# Prompt
+
+**Role:**
+You are an award-winning creative director, UI/UX designer, 3D web engineer, and frontend developer specializing in luxury automotive websites.
+
+Your goal is to build an unforgettable **Formula 1 + GT Evolution Racing** experience that feels like a mix of **Porsche**, **Mercedes-AMG**, **F1**, **Pagani**, **Red Bull Racing**, and **Gran Turismo**, with cinematic storytelling.
+
+---
+
+## Project Name
+
+**GT Evolution Racing**
+
+Tagline:
+
+*"Engineering Speed. Designing Legends."*
+
+---
+
+## Objective
+
+Create an ultra-premium, scroll-driven, single-page website that tells the story of motorsport evolution.
+
+This should NOT feel like a normal website.
+
+It should feel like an interactive cinematic experience.
+
+Think:
+
+* Apple product launch
+* Mercedes AMG landing page
+* Porsche Experience
+* Formula 1 intro
+* Gran Turismo cinematics
+* Need for Speed trailers
+* Unreal Engine demo
+
+Every scroll should feel like shifting gears.
+
+---
+
+## Tech Stack
+
+* Next.js
+* React
+* TypeScript
+* TailwindCSS
+* Framer Motion
+* GSAP ScrollTrigger
+* Lenis smooth scrolling
+* Three.js / React Three Fiber
+* Drei
+* Spline integration (optional)
+* WebGL
+* GLSL shaders
+* Lottie animations
+* SVG animations
+
+Use modern architecture.
+
+---
+
+# Visual Style
+
+Dark luxury.
+
+Carbon fiber.
+
+Glossy paint.
+
+Metal.
+
+Titanium.
+
+Glass.
+
+Smoke.
+
+Fire.
+
+Neon red.
+
+Electric blue.
+
+Matte black.
+
+Gold highlights.
+
+Chrome reflections.
+
+The UI should feel like a million-dollar racing simulator.
+
+---
+
+## Color Palette
+
+Background:
+
+#050505
+
+Carbon:
+
+#111111
+
+Red:
+
+#FF1E1E
+
+Blue:
+
+#00D4FF
+
+White:
+
+#F5F5F5
+
+Silver:
+
+#BFC3C7
+
+Accent Gold:
+
+#D4AF37
+
+---
+
+# Typography
+
+Huge cinematic typography.
+
+Mix:
+
+* Bebas Neue
+* Orbitron
+* Space Grotesk
+
+Large titles.
+
+Massive spacing.
+
+Minimal paragraphs.
+
+Luxury feel.
+
+---
+
+# Scroll Experience
+
+Every section must animate.
+
+Nothing appears instantly.
+
+Every movement should feel physical.
+
+The page should have momentum.
+
+---
+
+# Hero Section
+
+Full-screen.
+
+A Formula 1 car emerges from darkness.
+
+Fog slowly moves.
+
+Headlights glow.
+
+Engine starts.
+
+Camera slowly circles the car.
+
+Particles float.
+
+Tiny sparks appear.
+
+When scrolling:
+
+The car accelerates toward the user.
+
+Background becomes blurred.
+
+Camera shakes slightly.
+
+Exhaust flames appear.
+
+Engine RPM increases.
+
+---
+
+## Engine Sound
+
+The website should include realistic engine sounds.
+
+When entering:
+
+Low idle.
+
+While scrolling:
+
+RPM increases.
+
+Turbo spool.
+
+Gear shifts.
+
+DRS sound.
+
+Downshift pops.
+
+Pit limiter.
+
+Crowd ambience.
+
+Rain ambience (optional).
+
+Allow the user to mute/unmute.
+
+---
+
+## Scroll Transition
+
+Formula 1 car transforms into a GT race car.
+
+Transformation should be cinematic.
+
+Body panels morph.
+
+Suspension changes.
+
+Spoiler expands.
+
+Lighting changes.
+
+Camera rotates.
+
+Smoke appears.
+
+Music intensifies.
+
+---
+
+## GT Section
+
+Showcase GT evolution.
+
+Cars appear one by one.
+
+Different manufacturers.
+
+No copyrighted logos.
+
+Use generic but realistic race cars.
+
+Include:
+
+Hypercars
+
+Prototype racers
+
+GT3
+
+GT4
+
+Concept race cars
+
+Future EV race cars
+
+Each one rotates in 3D.
+
+---
+
+## Timeline
+
+Horizontal scrolling timeline.
+
+1970
+
+↓
+
+1985
+
+↓
+
+1995
+
+↓
+
+2005
+
+↓
+
+2015
+
+↓
+
+2025
+
+↓
+
+2050
+
+Each year unlocks:
+
+Car
+
+Technology
+
+Aerodynamics
+
+Power
+
+Top speed
+
+Materials
+
+AI
+
+Hybrid systems
+
+---
+
+## Aerodynamics Section
+
+Animated airflow.
+
+Particles flow over the car.
+
+Wing flex.
+
+Ground effect.
+
+Diffuser.
+
+Air tunnels.
+
+Interactive.
+
+User moves mouse.
+
+Particles react.
+
+---
+
+## Engine Section
+
+Exploded engine animation.
+
+Every component floats apart.
+
+Turbo
+
+Pistons
+
+Camshaft
+
+Valves
+
+MGU-K
+
+Battery
+
+Transmission
+
+Each part animates.
+
+---
+
+## Performance Section
+
+Animated gauges.
+
+Horsepower.
+
+RPM.
+
+Acceleration.
+
+Weight.
+
+Cornering G-force.
+
+Braking.
+
+Everything animated.
+
+---
+
+## Interactive Garage
+
+Cars displayed on rotating platform.
+
+Mouse drag rotates car.
+
+Different paint finishes.
+
+Carbon fiber option.
+
+Night mode.
+
+Rain mode.
+
+Studio lighting.
+
+---
+
+## Racing Experience
+
+As the user scrolls:
+
+Track begins moving.
+
+Motion blur.
+
+Tire smoke.
+
+Heat distortion.
+
+Speed lines.
+
+Flying dust.
+
+Rubber particles.
+
+---
+
+## Weather Effects
+
+Rain.
+
+Snow.
+
+Fog.
+
+Sunset.
+
+Night.
+
+Lightning.
+
+Each smoothly transitions.
+
+---
+
+## Background
+
+Dynamic.
+
+Moving clouds.
+
+Smoke.
+
+Particles.
+
+Stars.
+
+Pit lane lights.
+
+Fire embers.
+
+---
+
+## Cursor
+
+Custom racing cursor.
+
+Looks like:
+
+Telemetry indicator.
+
+Or steering wheel.
+
+Leaves glowing trails.
+
+---
+
+## Navigation
+
+Minimal floating navigation.
+
+Transparent.
+
+Glass morphism.
+
+Appears after scrolling.
+
+---
+
+## Statistics Section
+
+Animated counters.
+
+500+
+
+Races
+
+1200+
+
+Podiums
+
+350+
+
+Victories
+
+25M+
+
+Fans
+
+Everything counts upward.
+
+---
+
+## Gallery
+
+Infinite horizontal gallery.
+
+Large racing photography.
+
+Motion blur.
+
+Parallax.
+
+Zoom.
+
+Hover reveals details.
+
+---
+
+## Videos
+
+Background cinematic racing videos.
+
+Use royalty-free footage only.
+
+Never use copyrighted videos.
+
+Compress properly.
+
+Lazy load.
+
+---
+
+## Images
+
+Use only royalty-free or AI-generated visuals.
+
+Sources allowed:
+
+* Unsplash
+* Pexels
+* Pixabay
+* Openverse
+* Generated AI artwork
+* Poly Haven HDRIs
+* AmbientCG textures
+* NASA (for space backgrounds)
+
+Do NOT use copyrighted Formula 1 team images, official logos, manufacturer branding, sponsor decals, or protected photography.
+
+Instead, create original, fictional, motorsport-inspired race cars with professional CGI quality.
+
+---
+
+## Sound Design
+
+High-quality.
+
+Royalty-free.
+
+Engine.
+
+Turbo.
+
+Wind.
+
+Pit lane.
+
+Crowd.
+
+Radio chatter.
+
+Rain.
+
+Thunder.
+
+Ambient synth.
+
+Everything fades naturally.
+
+---
+
+## Micro Animations
+
+Buttons glow.
+
+Cards float.
+
+Icons rotate.
+
+Numbers animate.
+
+Light sweeps.
+
+Hover reflections.
+
+Glass distortion.
+
+Magnetic buttons.
+
+---
+
+## Footer
+
+Dark.
+
+Minimal.
+
+Animated.
+
+Car disappears into darkness.
+
+Engine shuts off.
+
+Smoke fades.
+
+Only one line remains:
+
+**"The race never truly ends."**
+
+---
+
+# Performance
+
+Target:
+
+90+ Lighthouse score.
+
+Use:
+
+Lazy loading.
+
+Code splitting.
+
+Image optimization.
+
+GPU transforms.
+
+Efficient shaders.
+
+Compressed assets.
+
+Responsive.
+
+Mobile friendly.
+
+Accessibility considered.
+
+---
+
+# Code Quality
+
+Write production-quality code.
+
+Organize components cleanly.
+
+Reusable architecture.
+
+No placeholder sections.
+
+No lorem ipsum.
+
+No unfinished UI.
+
+No broken animations.
+
+---
+
