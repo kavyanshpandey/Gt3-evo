@@ -6,7 +6,7 @@ A cinematic, scroll-driven single-page experience that tells the story of motors
 
 ## Demo
 
-<!-- paste your video upload here -->
+(https://github.com/kavyanshpandey/Gt3-evo/blob/master/GT3EVOO.mov)
 
 ## Stack
 
